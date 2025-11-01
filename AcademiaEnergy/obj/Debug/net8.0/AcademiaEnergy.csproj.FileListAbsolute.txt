@@ -1,0 +1,155 @@
+F:\2A-DS-PI\Nata e Marina\DS\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\bin\Debug\net8.0\appsettings.Development.json
+F:\2A-DS-PI\Nata e Marina\DS\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\bin\Debug\net8.0\appsettings.json
+F:\2A-DS-PI\Nata e Marina\DS\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\bin\Debug\net8.0\AcademiaEnergy.staticwebassets.runtime.json
+F:\2A-DS-PI\Nata e Marina\DS\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\bin\Debug\net8.0\AcademiaEnergy.staticwebassets.endpoints.json
+F:\2A-DS-PI\Nata e Marina\DS\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\bin\Debug\net8.0\AcademiaEnergy.exe
+F:\2A-DS-PI\Nata e Marina\DS\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\bin\Debug\net8.0\AcademiaEnergy.deps.json
+F:\2A-DS-PI\Nata e Marina\DS\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\bin\Debug\net8.0\AcademiaEnergy.runtimeconfig.json
+F:\2A-DS-PI\Nata e Marina\DS\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\bin\Debug\net8.0\AcademiaEnergy.dll
+F:\2A-DS-PI\Nata e Marina\DS\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\bin\Debug\net8.0\AcademiaEnergy.pdb
+F:\2A-DS-PI\Nata e Marina\DS\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\AcademiaEnergy.GeneratedMSBuildEditorConfig.editorconfig
+F:\2A-DS-PI\Nata e Marina\DS\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\AcademiaEnergy.AssemblyInfoInputs.cache
+F:\2A-DS-PI\Nata e Marina\DS\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\AcademiaEnergy.AssemblyInfo.cs
+F:\2A-DS-PI\Nata e Marina\DS\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\AcademiaEnergy.csproj.CoreCompileInputs.cache
+F:\2A-DS-PI\Nata e Marina\DS\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\AcademiaEnergy.MvcApplicationPartsAssemblyInfo.cache
+F:\2A-DS-PI\Nata e Marina\DS\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\AcademiaEnergy.RazorAssemblyInfo.cache
+F:\2A-DS-PI\Nata e Marina\DS\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\AcademiaEnergy.RazorAssemblyInfo.cs
+F:\2A-DS-PI\Nata e Marina\DS\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\2A-DS-PI\Nata e Marina\DS\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\scopedcss\bundle\AcademiaEnergy.styles.css
+F:\2A-DS-PI\Nata e Marina\DS\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\scopedcss\projectbundle\AcademiaEnergy.bundle.scp.css
+F:\2A-DS-PI\Nata e Marina\DS\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\staticwebassets.build.json
+F:\2A-DS-PI\Nata e Marina\DS\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\staticwebassets.build.json.cache
+F:\2A-DS-PI\Nata e Marina\DS\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\staticwebassets.development.json
+F:\2A-DS-PI\Nata e Marina\DS\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+F:\2A-DS-PI\Nata e Marina\DS\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+F:\2A-DS-PI\Nata e Marina\DS\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\AcademiaEnergy.dll
+F:\2A-DS-PI\Nata e Marina\DS\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\refint\AcademiaEnergy.dll
+F:\2A-DS-PI\Nata e Marina\DS\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\AcademiaEnergy.pdb
+F:\2A-DS-PI\Nata e Marina\DS\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\AcademiaEnergy.genruntimeconfig.cache
+F:\2A-DS-PI\Nata e Marina\DS\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\ref\AcademiaEnergy.dll
+C:\Users\2ds\Desktop\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\2ds\Desktop\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\bin\Debug\net8.0\appsettings.json
+C:\Users\2ds\Desktop\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\bin\Debug\net8.0\AcademiaEnergy.staticwebassets.runtime.json
+C:\Users\2ds\Desktop\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\bin\Debug\net8.0\AcademiaEnergy.exe
+C:\Users\2ds\Desktop\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\bin\Debug\net8.0\AcademiaEnergy.deps.json
+C:\Users\2ds\Desktop\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\bin\Debug\net8.0\AcademiaEnergy.runtimeconfig.json
+C:\Users\2ds\Desktop\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\bin\Debug\net8.0\AcademiaEnergy.dll
+C:\Users\2ds\Desktop\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\bin\Debug\net8.0\AcademiaEnergy.pdb
+C:\Users\2ds\Desktop\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\AcademiaEnergy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2ds\Desktop\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\AcademiaEnergy.AssemblyInfoInputs.cache
+C:\Users\2ds\Desktop\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\AcademiaEnergy.AssemblyInfo.cs
+C:\Users\2ds\Desktop\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\AcademiaEnergy.csproj.CoreCompileInputs.cache
+C:\Users\2ds\Desktop\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\AcademiaEnergy.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\2ds\Desktop\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\AcademiaEnergy.RazorAssemblyInfo.cache
+C:\Users\2ds\Desktop\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\AcademiaEnergy.RazorAssemblyInfo.cs
+C:\Users\2ds\Desktop\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\2ds\Desktop\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\scopedcss\bundle\AcademiaEnergy.styles.css
+C:\Users\2ds\Desktop\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\scopedcss\projectbundle\AcademiaEnergy.bundle.scp.css
+C:\Users\2ds\Desktop\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\2ds\Desktop\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\2ds\Desktop\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\staticwebassets\msbuild.AcademiaEnergy.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\2ds\Desktop\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\staticwebassets\msbuild.build.AcademiaEnergy.props
+C:\Users\2ds\Desktop\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AcademiaEnergy.props
+C:\Users\2ds\Desktop\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AcademiaEnergy.props
+C:\Users\2ds\Desktop\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\2ds\Desktop\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\AcademiaEnergy.dll
+C:\Users\2ds\Desktop\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\refint\AcademiaEnergy.dll
+C:\Users\2ds\Desktop\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\AcademiaEnergy.pdb
+C:\Users\2ds\Desktop\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\AcademiaEnergy.genruntimeconfig.cache
+C:\Users\2ds\Desktop\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\ref\AcademiaEnergy.dll
+F:\2A-DS-PI\Samuel e Nata\DS\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\bin\Debug\net8.0\appsettings.Development.json
+F:\2A-DS-PI\Samuel e Nata\DS\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\bin\Debug\net8.0\appsettings.json
+F:\2A-DS-PI\Samuel e Nata\DS\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\bin\Debug\net8.0\AcademiaEnergy.staticwebassets.runtime.json
+F:\2A-DS-PI\Samuel e Nata\DS\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\bin\Debug\net8.0\AcademiaEnergy.staticwebassets.endpoints.json
+F:\2A-DS-PI\Samuel e Nata\DS\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\bin\Debug\net8.0\AcademiaEnergy.exe
+F:\2A-DS-PI\Samuel e Nata\DS\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\bin\Debug\net8.0\AcademiaEnergy.deps.json
+F:\2A-DS-PI\Samuel e Nata\DS\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\bin\Debug\net8.0\AcademiaEnergy.runtimeconfig.json
+F:\2A-DS-PI\Samuel e Nata\DS\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\bin\Debug\net8.0\AcademiaEnergy.dll
+F:\2A-DS-PI\Samuel e Nata\DS\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\bin\Debug\net8.0\AcademiaEnergy.pdb
+F:\2A-DS-PI\Samuel e Nata\DS\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\AcademiaEnergy.GeneratedMSBuildEditorConfig.editorconfig
+F:\2A-DS-PI\Samuel e Nata\DS\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\AcademiaEnergy.AssemblyInfoInputs.cache
+F:\2A-DS-PI\Samuel e Nata\DS\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\AcademiaEnergy.AssemblyInfo.cs
+F:\2A-DS-PI\Samuel e Nata\DS\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\AcademiaEnergy.csproj.CoreCompileInputs.cache
+F:\2A-DS-PI\Samuel e Nata\DS\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\AcademiaEnergy.MvcApplicationPartsAssemblyInfo.cache
+F:\2A-DS-PI\Samuel e Nata\DS\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\AcademiaEnergy.RazorAssemblyInfo.cache
+F:\2A-DS-PI\Samuel e Nata\DS\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\AcademiaEnergy.RazorAssemblyInfo.cs
+F:\2A-DS-PI\Samuel e Nata\DS\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\2A-DS-PI\Samuel e Nata\DS\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\scopedcss\bundle\AcademiaEnergy.styles.css
+F:\2A-DS-PI\Samuel e Nata\DS\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\scopedcss\projectbundle\AcademiaEnergy.bundle.scp.css
+F:\2A-DS-PI\Samuel e Nata\DS\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\staticwebassets.build.json
+F:\2A-DS-PI\Samuel e Nata\DS\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\staticwebassets.build.json.cache
+F:\2A-DS-PI\Samuel e Nata\DS\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\staticwebassets.development.json
+F:\2A-DS-PI\Samuel e Nata\DS\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+F:\2A-DS-PI\Samuel e Nata\DS\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+F:\2A-DS-PI\Samuel e Nata\DS\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\AcademiaEnergy.dll
+F:\2A-DS-PI\Samuel e Nata\DS\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\refint\AcademiaEnergy.dll
+F:\2A-DS-PI\Samuel e Nata\DS\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\AcademiaEnergy.pdb
+F:\2A-DS-PI\Samuel e Nata\DS\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\AcademiaEnergy.genruntimeconfig.cache
+F:\2A-DS-PI\Samuel e Nata\DS\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\ref\AcademiaEnergy.dll
+C:\Users\sam12\Desktop\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\sam12\Desktop\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\AcademiaEnergy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sam12\Desktop\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\AcademiaEnergy.AssemblyInfoInputs.cache
+C:\Users\sam12\Desktop\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\AcademiaEnergy.AssemblyInfo.cs
+C:\Users\sam12\Desktop\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\AcademiaEnergy.csproj.CoreCompileInputs.cache
+C:\Users\sam12\Desktop\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\AcademiaEnergy.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sam12\Desktop\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\AcademiaEnergy.RazorAssemblyInfo.cache
+C:\Users\sam12\Desktop\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\AcademiaEnergy.RazorAssemblyInfo.cs
+C:\Users\sam12\Desktop\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\AcademiaEnergy.dll
+C:\Users\sam12\Desktop\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\refint\AcademiaEnergy.dll
+C:\Users\sam12\Desktop\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\AcademiaEnergy.pdb
+C:\Users\sam12\Desktop\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\sam12\Desktop\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\bin\Debug\net8.0\appsettings.json
+C:\Users\sam12\Desktop\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\bin\Debug\net8.0\AcademiaEnergy.staticwebassets.runtime.json
+C:\Users\sam12\Desktop\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\bin\Debug\net8.0\AcademiaEnergy.staticwebassets.endpoints.json
+C:\Users\sam12\Desktop\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\bin\Debug\net8.0\AcademiaEnergy.exe
+C:\Users\sam12\Desktop\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\bin\Debug\net8.0\AcademiaEnergy.deps.json
+C:\Users\sam12\Desktop\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\bin\Debug\net8.0\AcademiaEnergy.runtimeconfig.json
+C:\Users\sam12\Desktop\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\bin\Debug\net8.0\AcademiaEnergy.dll
+C:\Users\sam12\Desktop\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\bin\Debug\net8.0\AcademiaEnergy.pdb
+C:\Users\sam12\Desktop\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\sam12\Desktop\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\sam12\Desktop\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\sam12\Desktop\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\sam12\Desktop\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\scopedcss\bundle\AcademiaEnergy.styles.css
+C:\Users\sam12\Desktop\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\scopedcss\projectbundle\AcademiaEnergy.bundle.scp.css
+C:\Users\sam12\Desktop\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\sam12\Desktop\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\sam12\Desktop\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\sam12\Desktop\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\sam12\Desktop\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\sam12\Desktop\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\AcademiaEnergy.genruntimeconfig.cache
+C:\Users\sam12\Desktop\AcademiaEnergy\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\ref\AcademiaEnergy.dll
+C:\Users\2ds\Desktop\academia\AcademiaEnergy\AcademiaEnergy\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\2ds\Desktop\academia\AcademiaEnergy\AcademiaEnergy\bin\Debug\net8.0\appsettings.json
+C:\Users\2ds\Desktop\academia\AcademiaEnergy\AcademiaEnergy\bin\Debug\net8.0\AcademiaEnergy.staticwebassets.runtime.json
+C:\Users\2ds\Desktop\academia\AcademiaEnergy\AcademiaEnergy\bin\Debug\net8.0\AcademiaEnergy.staticwebassets.endpoints.json
+C:\Users\2ds\Desktop\academia\AcademiaEnergy\AcademiaEnergy\bin\Debug\net8.0\AcademiaEnergy.exe
+C:\Users\2ds\Desktop\academia\AcademiaEnergy\AcademiaEnergy\bin\Debug\net8.0\AcademiaEnergy.deps.json
+C:\Users\2ds\Desktop\academia\AcademiaEnergy\AcademiaEnergy\bin\Debug\net8.0\AcademiaEnergy.runtimeconfig.json
+C:\Users\2ds\Desktop\academia\AcademiaEnergy\AcademiaEnergy\bin\Debug\net8.0\AcademiaEnergy.dll
+C:\Users\2ds\Desktop\academia\AcademiaEnergy\AcademiaEnergy\bin\Debug\net8.0\AcademiaEnergy.pdb
+C:\Users\2ds\Desktop\academia\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\AcademiaEnergy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2ds\Desktop\academia\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\AcademiaEnergy.AssemblyInfoInputs.cache
+C:\Users\2ds\Desktop\academia\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\AcademiaEnergy.AssemblyInfo.cs
+C:\Users\2ds\Desktop\academia\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\AcademiaEnergy.csproj.CoreCompileInputs.cache
+C:\Users\2ds\Desktop\academia\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\AcademiaEnergy.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\2ds\Desktop\academia\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\AcademiaEnergy.RazorAssemblyInfo.cache
+C:\Users\2ds\Desktop\academia\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\AcademiaEnergy.RazorAssemblyInfo.cs
+C:\Users\2ds\Desktop\academia\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\2ds\Desktop\academia\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\scopedcss\bundle\AcademiaEnergy.styles.css
+C:\Users\2ds\Desktop\academia\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\scopedcss\projectbundle\AcademiaEnergy.bundle.scp.css
+C:\Users\2ds\Desktop\academia\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\2ds\Desktop\academia\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\2ds\Desktop\academia\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\2ds\Desktop\academia\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\staticwebassets\msbuild.AcademiaEnergy.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\2ds\Desktop\academia\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\staticwebassets\msbuild.AcademiaEnergy.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\2ds\Desktop\academia\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\staticwebassets\msbuild.build.AcademiaEnergy.props
+C:\Users\2ds\Desktop\academia\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AcademiaEnergy.props
+C:\Users\2ds\Desktop\academia\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AcademiaEnergy.props
+C:\Users\2ds\Desktop\academia\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\2ds\Desktop\academia\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\2ds\Desktop\academia\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\AcademiaEnergy.dll
+C:\Users\2ds\Desktop\academia\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\refint\AcademiaEnergy.dll
+C:\Users\2ds\Desktop\academia\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\AcademiaEnergy.pdb
+C:\Users\2ds\Desktop\academia\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\AcademiaEnergy.genruntimeconfig.cache
+C:\Users\2ds\Desktop\academia\AcademiaEnergy\AcademiaEnergy\obj\Debug\net8.0\ref\AcademiaEnergy.dll
