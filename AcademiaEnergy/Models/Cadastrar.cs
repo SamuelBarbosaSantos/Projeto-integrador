@@ -5,14 +5,28 @@ namespace AcademiaEnergy.Models
 {
     public class Cadastrarcli
     {
-        [Key]
-        [Required(ErrorMessage = "Seu CPF é necessario.")]
-        [RegularExpression(@"^\d{11}$", ErrorMessage = "O CPF deve conter apenas números (11 dígitos).")]
-        public string? CPF { get; set; }
+        [Display(Name = "CPF")]
+        public decimal? CPF { get; set; }
 
-        [Required(ErrorMessage = "A senha é obrigatória.")]
-        [DataType(DataType.Password)]
-        public string? Senha { get; set; }
+        [Display(Name = "Senha")]
+        public decimal? Senha { get; set; }
+
+        [Display(Name = "Telefone")]
+        public decimal? Tell { get; set; }
+
+        [Display(Name = "DataNasc")]
+        [DataType(DataType.Date)]
+        public DateTime DataNasc { get; set; }
+
+        [Display(Name = "Massa Corporal")]
+        public decimal? MassaCorporal { get; set; }
+
+        [Display(Name = "Altura")]
+        public char? Altura { get; set; }
+
+        [Display(Name = "IMC")]
+        public decimal? IMC { get; set; }
+
     }
 }
 

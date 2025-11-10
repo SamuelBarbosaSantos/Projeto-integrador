@@ -1,5 +1,5 @@
-CREATE DATABASE academia;
-USE academia;
+CREATE DATABASE dbacademia;
+USE dbacademia;
 
 -- 1. tbEndereco
 CREATE TABLE tbEndereco (
