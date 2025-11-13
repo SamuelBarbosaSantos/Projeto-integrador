@@ -8,24 +8,21 @@ namespace AcademiaEnergy.Models
         [Display(Name = "CPF")]
         public decimal? CPF { get; set; }
 
-        [Display(Name = "Senha")]
-        public decimal? Senha { get; set; }
+        [Display(Name = "NomeCliente")]
+        public string? NomeCliente { get; set; }
 
-        [Display(Name = "Telefone")]
-        public decimal? Tell { get; set; }
+        [Display(Name = "TelCelular")]
+        public decimal? TelCelular { get; set; }
 
         [Display(Name = "DataNasc")]
         [DataType(DataType.Date)]
         public DateTime DataNasc { get; set; }
 
-        [Display(Name = "Massa Corporal")]
-        public decimal? MassaCorporal { get; set; }
+        [Display(Name = "NumEndereco")]
+        public string? NumEndereco { get; set; }
 
-        [Display(Name = "Altura")]
-        public char? Altura { get; set; }
-
-        [Display(Name = "IMC")]
-        public decimal? IMC { get; set; }
+        [Display(Name = "Logradouro")]
+        public string? Logradouro { get; set; }
 
     }
 }
