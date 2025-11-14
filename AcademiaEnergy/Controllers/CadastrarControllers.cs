@@ -1,3 +1,4 @@
+using AcademiaEnergy.Models;
 using Microsoft.AspNetCore.Mvc;
 using MySql.Data.MySqlClient;
 
@@ -16,13 +17,14 @@ namespace AcademiaEnergy.Controllers
             return View();
         }
         [HttpPost]
-        public IActionResult Cadastrarcli(Cadastrar cadastrar)
+        public IActionResult Cadastrarcli(Cadastrarcli cadastrar)
         {
             string? connectionString = _configuration.GetConnectionString("DefaultConnection");
             using var connection = new MySqlConnection(connectionString);
             connection.Open();
 
-            string sql = "INSERT INTO tbCliente (CPF, NomeCliente, TelCelular, DataNasc, NumEndereco, Logradouro) VALUES (@CPF, @NomeCliente, @TelCelular, @DataNasc, @NumEndereco, @Logradouro)";
+            string sql = "INSERT INTO tbCliente (CPF, NomeCliente, TelCelular, DataNasc, NumEndereco, Logradouro) " +
+                                        "VALUES (@CPF, @NomeCliente, @TelCelular, @DataNasc, @NumEndereco, @Logradouro)";
             MySqlCommand command = new MySqlCommand(sql, connection);
             command.Parameters.AddWithValue("@CPF", cadastrar.CPF);
             command.Parameters.AddWithValue("@NomeCliente", cadastrar.NomeCliente);
