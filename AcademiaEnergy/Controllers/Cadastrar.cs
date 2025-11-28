@@ -34,7 +34,7 @@ namespace AcademiaEnergy.Controllers
             command.Parameters.AddWithValue("@Logradouro", cadastrar.Logradouro);
             command.ExecuteNonQuery();
 
-            return RedirectToAction("Index", "Home");
+            return RedirectToAction("Cadastrarcli", "Cadastrar");
         }
 
     }

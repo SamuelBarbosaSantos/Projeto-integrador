@@ -3,28 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\2ds\\Desktop\\Academia\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C32B2A61-1514-46A4-9787-9CA108BADCE3}|AcademiaEnergy\\AcademiaEnergy.csproj|c:\\users\\2ds\\desktop\\academia\\academiaenergy\\controllers\\cadastrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C32B2A61-1514-46A4-9787-9CA108BADCE3}|AcademiaEnergy\\AcademiaEnergy.csproj|solutionrelative:academiaenergy\\controllers\\cadastrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C32B2A61-1514-46A4-9787-9CA108BADCE3}|AcademiaEnergy\\AcademiaEnergy.csproj|c:\\users\\2ds\\desktop\\academia\\academiaenergy\\views\\cadastrar\\cadastrarcli.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C32B2A61-1514-46A4-9787-9CA108BADCE3}|AcademiaEnergy\\AcademiaEnergy.csproj|solutionrelative:academiaenergy\\views\\cadastrar\\cadastrarcli.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C32B2A61-1514-46A4-9787-9CA108BADCE3}|AcademiaEnergy\\AcademiaEnergy.csproj|c:\\users\\2ds\\desktop\\academia\\academiaenergy\\controllers\\cadastrarcontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C32B2A61-1514-46A4-9787-9CA108BADCE3}|AcademiaEnergy\\AcademiaEnergy.csproj|solutionrelative:academiaenergy\\controllers\\cadastrarcontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C32B2A61-1514-46A4-9787-9CA108BADCE3}|AcademiaEnergy\\AcademiaEnergy.csproj|c:\\users\\2ds\\desktop\\academia\\academiaenergy\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{C32B2A61-1514-46A4-9787-9CA108BADCE3}|AcademiaEnergy\\AcademiaEnergy.csproj|solutionrelative:academiaenergy\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C32B2A61-1514-46A4-9787-9CA108BADCE3}|AcademiaEnergy\\AcademiaEnergy.csproj|c:\\users\\2ds\\desktop\\academia\\academiaenergy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C32B2A61-1514-46A4-9787-9CA108BADCE3}|AcademiaEnergy\\AcademiaEnergy.csproj|solutionrelative:academiaenergy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C32B2A61-1514-46A4-9787-9CA108BADCE3}|AcademiaEnergy\\AcademiaEnergy.csproj|c:\\users\\2ds\\desktop\\academia\\academiaenergy\\models\\cadastrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C32B2A61-1514-46A4-9787-9CA108BADCE3}|AcademiaEnergy\\AcademiaEnergy.csproj|solutionrelative:academiaenergy\\models\\cadastrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C32B2A61-1514-46A4-9787-9CA108BADCE3}|AcademiaEnergy\\AcademiaEnergy.csproj|c:\\users\\2ds\\desktop\\academia\\academiaenergy\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C32B2A61-1514-46A4-9787-9CA108BADCE3}|AcademiaEnergy\\AcademiaEnergy.csproj|solutionrelative:academiaenergy\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,59 +34,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\2ds\\Desktop\\Academia\\AcademiaEnergy\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "AcademiaEnergy\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\2ds\\Desktop\\Academia\\AcademiaEnergy\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "AcademiaEnergy\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-14T12:21:46.548Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\2ds\\Desktop\\Academia\\AcademiaEnergy\\Program.cs",
-              "RelativeDocumentMoniker": "AcademiaEnergy\\Program.cs",
-              "ToolTip": "C:\\Users\\2ds\\Desktop\\Academia\\AcademiaEnergy\\Program.cs",
-              "RelativeToolTip": "AcademiaEnergy\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T12:20:50.068Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\2ds\\Desktop\\Academia\\AcademiaEnergy\\appsettings.json",
-              "RelativeDocumentMoniker": "AcademiaEnergy\\appsettings.json",
-              "ToolTip": "C:\\Users\\2ds\\Desktop\\Academia\\AcademiaEnergy\\appsettings.json",
-              "RelativeToolTip": "AcademiaEnergy\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-14T12:12:18.325Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CadastrarControllers.cs",
-              "DocumentMoniker": "C:\\Users\\2ds\\Desktop\\Academia\\AcademiaEnergy\\Controllers\\CadastrarControllers.cs",
-              "RelativeDocumentMoniker": "AcademiaEnergy\\Controllers\\CadastrarControllers.cs",
-              "ToolTip": "C:\\Users\\2ds\\Desktop\\Academia\\AcademiaEnergy\\Controllers\\CadastrarControllers.cs",
-              "RelativeToolTip": "AcademiaEnergy\\Controllers\\CadastrarControllers.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-09T23:11:55.581Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Cadastrar.cs",
               "DocumentMoniker": "C:\\Users\\2ds\\Desktop\\Academia\\AcademiaEnergy\\Models\\Cadastrar.cs",
               "RelativeDocumentMoniker": "AcademiaEnergy\\Models\\Cadastrar.cs",
@@ -112,12 +48,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Cadastrar.cs",
+              "DocumentMoniker": "C:\\Users\\2ds\\Desktop\\Academia\\AcademiaEnergy\\Controllers\\Cadastrar.cs",
+              "RelativeDocumentMoniker": "AcademiaEnergy\\Controllers\\Cadastrar.cs",
+              "ToolTip": "C:\\Users\\2ds\\Desktop\\Academia\\AcademiaEnergy\\Controllers\\Cadastrar.cs",
+              "RelativeToolTip": "AcademiaEnergy\\Controllers\\Cadastrar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T23:11:55.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Cadastrarcli.cshtml",
               "DocumentMoniker": "C:\\Users\\2ds\\Desktop\\Academia\\AcademiaEnergy\\Views\\Cadastrar\\Cadastrarcli.cshtml",
               "RelativeDocumentMoniker": "AcademiaEnergy\\Views\\Cadastrar\\Cadastrarcli.cshtml",
               "ToolTip": "C:\\Users\\2ds\\Desktop\\Academia\\AcademiaEnergy\\Views\\Cadastrar\\Cadastrarcli.cshtml",
               "RelativeToolTip": "AcademiaEnergy\\Views\\Cadastrar\\Cadastrarcli.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAADIAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-09T23:11:40.655Z",
               "EditorCaption": ""

@@ -59,11 +59,7 @@ CREATE TABLE tbCliente (
     MassaCorporal DECIMAL(6,3),
     Altura CHAR(3),
     IMC DECIMAL(4,2),
-    SenhaAcesso DECIMAL(6,0),
-    IdSanguineo DECIMAL(8,0) NOT NULL,
-    CEP DECIMAL(8,0) NOT NULL,
-    CONSTRAINT fk_cliente_tipo_sanguineo FOREIGN KEY (IdSanguineo) REFERENCES tbTipoSanguineo(IdSanguineo),
-    CONSTRAINT fk_cliente_endereco FOREIGN KEY (CEP) REFERENCES tbEndereco(CEP)
+    SenhaAcesso DECIMAL(6,0)
 );
 
 -- 9. tbFuncionario
@@ -118,3 +114,7 @@ CREATE TABLE tbSessao (
     CONSTRAINT fk_sessao_status FOREIGN KEY (IdStatusSessao) REFERENCES tbStatusSessao(IdStatusSessao),
     CONSTRAINT fk_sessao_funcionario FOREIGN KEY (IdFunc) REFERENCES tbFuncionario(IdFunc)
 );
+
+drop database dbacademia;
+
+select * from tbCliente
