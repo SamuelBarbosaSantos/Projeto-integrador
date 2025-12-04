@@ -1,58 +1,75 @@
 ﻿@{
-    ViewData["Title"] = "Home Page";
+    ViewData["Title"] = "Home";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Academia Energy</h1>
-    <p>Seja bem vindo a melhor academia da região</p>
-    <partial name="_Carrossel" />
-</div>
-
-<div class="container text-center">
-    <p class="fw-bold fs-2 text-center">Planos</p>
-    <div class="row">
-        <div class="col d-flex justify-content-center">
-            <div class="card" style="width: 20rem;">
-                <div class="card-body">
+<div class="container mt-4">
+    <div class="text-center mb-4">
+        <h1 class="fw-bold">Academia Energy</h1>
+        <p class="text-muted">Seja bem-vindo à melhor academia da região</p>
+    </div>
+    <div class="mb-5">
+        <partial name="_Carrossel" />
+    </div>
+    <div class="text-center mb-4">
+        <h2 class="fw-bold">Planos</h2>
+    </div>
+    <div class="row g-4 justify-content-center mb-5 bg-light">
+        <div class="col-md-4 d-flex justify-content-center">
+            <div class="card shadow-sm" style="width: 20rem;">
+                <div class="card-body text-center">
                     <h5 class="card-title">Plano Mensal</h5>
-                    <h6 class="card-subtitle mb-2 text-body-secondary">Plano Pro</h6>
+                    <h6 class="text-muted mb-3">Plano Pro</h6>
                     <p class="card-text">Ideal para quem quer começar sem compromisso a longo prazo.</p>
-                    <a href="#" class="card-link">Saiba os benefios</a>
-                    <a href="#" class="card-link">Assinar</a>
+                    <div class="d-flex justify-content-center gap-2 mt-3">
+                        <a href="" class="btn btn-outline-secondary btn-sm">Benefícios</a>
+                        <a href="" class="btn btn-success btn-sm">Assinar</a>
+                    </div>
                 </div>
             </div>
         </div>
-        <div class="col d-flex justify-content-center">
-            <div class="card" style="width: 20rem;">
-                <div class="card-body">
-                    <h5 class="card-title">Plano Tri-Mestral</h5>
-                    <h6 class="card-subtitle mb-2 text-body-secondary">Plano Silver</h6>
-                    <p class="card-text">Mais resultados, mais economia: invista em 3 meses de mudança!</p>
-                    <a href="#" class="card-link">Saiba os benefios</a>
-                    <a href="#" class="card-link">Assinar</a>
+        <div class="col-md-4 d-flex justify-content-center">
+            <div class="card shadow-sm" style="width: 20rem;">
+                <div class="card-body text-center">
+                    <h5 class="card-title">Plano Trimestral</h5>
+                    <h6 class="text-muted mb-3">Plano Silver</h6>
+                    <p class="card-text">Mais resultados, mais economia: invista em 3 meses de mudança.</p>
+
+                    <div class="d-flex justify-content-center gap-2 mt-3">
+                        <a href="" class="btn btn-outline-secondary btn-sm">Benefícios</a>
+                        <a href="" class="btn btn-success btn-sm">Assinar</a>
+                    </div>
                 </div>
             </div>
         </div>
-        <div class="col d-flex justify-content-center">
-            <div class="card" style="width: 20rem;">
-                <div class="card-body">
+        <div class="col-md-4 d-flex justify-content-center">
+            <div class="card shadow-sm" style="width: 20rem;">
+                <div class="card-body text-center">
                     <h5 class="card-title">Plano Anual</h5>
-                    <h6 class="card-subtitle mb-2 text-body-secondary">Plano Anual</h6>
-                    <p class="card-text">Sua melhor versão em 12 meses.</p>
-                    <a href="#" class="card-link">Saiba os benefios</a>
-                    <a href="#" class="card-link">Assinar</a>
+                    <h6 class="text-muted mb-3">Plano Gold</h6>
+                    <p class="card-text">Sua melhor versão em 12 meses de foco e resultados.</p>
+
+                    <div class="d-flex justify-content-center gap-2 mt-3">
+                        <a href="" class="btn btn-outline-secondary btn-sm">Benefícios</a>
+                        <a href="" class="btn btn-success btn-sm">Assinar</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <div class="card shadow-sm">
+                <div class="card-header bg-light fw-bold text-center">
+                    Horário de Funcionamento
+                </div>
+                <div class="card-body">
+                    <ul class="list-unstyled text-center mb-0">
+                        <li>Segunda a sexta: das 4h às 23h</li>
+                        <li>Sábado: das 6h às 18h</li>
+                        <li>Domingo e feriados: das 6h às 14h</li>
+                    </ul>
                 </div>
             </div>
         </div>
     </div>
 </div>
-
-<div>
-    <ul>
-        <p class="fw-bold fs-2">Horário de funcionamento</p>
-        <li>Segunda a sexta: das 4h as 23h</li>
-        <li>Sábado: das 6h as 18h</li>
-        <li>Domingo e feriados: das 6h as 14h</li>
-    </ul>
-</div>
-
